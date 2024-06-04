@@ -6,7 +6,7 @@ const Home = () => {
   return (
 <>
 <div>
-        <nav>
+        <nav className='container'>
             <div>
                 <img src={img} alt='logo'/>
             </div>
